@@ -19,7 +19,6 @@ namespace Parameter_Modifiers
             p += 1;                 // Increment p by 1
             Console.WriteLine(p);   // Write p to screen
         }
-       /******************* THE SWAP MODIFIER ***************************/
         // The ref modifier is essential in implementing a swap method.
         static void Swap (ref string a, ref string b)
         {
